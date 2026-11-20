@@ -1,0 +1,16 @@
+{
+  "name": "companion-module-braehler-dcen",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@companion-module/base": "2.1.3"
+  },
+  "license": "MIT"
+}
